@@ -1,0 +1,2 @@
+
+I conducted a comprehensive analysis to select the best 11 players for a T20 cricket team. To gather initial data, I utilized software libraries such as Beautiful Soup, Pandas, and Numpy to collect and extract information from the ESPN Cricinfo website. I then used web scraping via Bright Data to obtain more complicated data. Once all data was collected, I cleaned and transformed it using the Pandas library. Finally, I used Power BI to create visualizations and ultimately build my final team of 11 players.
